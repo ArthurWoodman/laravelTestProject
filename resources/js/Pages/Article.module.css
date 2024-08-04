@@ -1,0 +1,11 @@
+.article-body {
+    margin: 1rem;
+}
+
+.article-footer {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    justify-content: flex-end;
+    margin: 1rem;
+}
